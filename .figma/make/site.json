@@ -1,0 +1,10 @@
+{
+  "description": "Analyzes resumes against job descriptions using AI to provide detailed match scores and skill coverage, helping recruiters and candidates optimize applications.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

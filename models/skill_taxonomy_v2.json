@@ -1,0 +1,259 @@
+{
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "typescript",
+    "c++",
+    "c#",
+    ".net",
+    "asp.net",
+    "node.js",
+    "php",
+    "ruby",
+    "rust",
+    "golang",
+    "sql",
+    "mysql",
+    "postgresql",
+    "mongodb",
+    "oracle",
+    "android",
+    "ios",
+    "flutter",
+    "react",
+    "angular",
+    "vue",
+    "django",
+    "flask",
+    "spring",
+    "spring boot",
+    "tensorflow",
+    "pytorch",
+    "scikit-learn",
+    "machine learning",
+    "deep learning",
+    "data science",
+    "data analysis",
+    "nlp",
+    "computer vision",
+    "docker",
+    "kubernetes",
+    "aws",
+    "azure",
+    "git",
+    "github",
+    "rest api",
+    "graphql",
+    "html",
+    "css",
+    "figma",
+    "power bi",
+    "tableau"
+  ],
+  "categories": {
+    "programming_languages": [
+      "python",
+      "java",
+      "javascript",
+      "typescript",
+      "c++",
+      "c#",
+      "php",
+      "ruby",
+      "rust",
+      "golang"
+    ],
+    "dotnet_ecosystem": [
+      ".net",
+      "c#",
+      "asp.net"
+    ],
+    "backend_api": [
+      "node.js",
+      "django",
+      "flask",
+      "spring",
+      "spring boot",
+      "rest api",
+      "graphql"
+    ],
+    "databases": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "mongodb",
+      "oracle"
+    ],
+    "frontend_web": [
+      "html",
+      "css",
+      "react",
+      "angular",
+      "vue"
+    ],
+    "mobile": [
+      "android",
+      "ios",
+      "flutter"
+    ],
+    "ai_ml_data": [
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "machine learning",
+      "deep learning",
+      "data science",
+      "data analysis",
+      "nlp",
+      "computer vision"
+    ],
+    "cloud_devops": [
+      "docker",
+      "kubernetes",
+      "aws",
+      "azure",
+      "git",
+      "github"
+    ],
+    "bi_design": [
+      "power bi",
+      "tableau",
+      "figma"
+    ]
+  },
+  "relationships": {
+    ".net": {
+      "related": [
+        "c#",
+        "asp.net"
+      ]
+    },
+    "c#": {
+      "related": [
+        ".net",
+        "asp.net"
+      ]
+    },
+    "asp.net": {
+      "related": [
+        ".net",
+        "c#"
+      ]
+    },
+    "spring": {
+      "related": [
+        "spring boot"
+      ]
+    },
+    "spring boot": {
+      "related": [
+        "spring"
+      ]
+    },
+    "machine learning": {
+      "related": [
+        "scikit-learn",
+        "tensorflow",
+        "pytorch"
+      ]
+    },
+    "deep learning": {
+      "related": [
+        "tensorflow",
+        "pytorch"
+      ]
+    },
+    "data science": {
+      "related": [
+        "data analysis",
+        "machine learning"
+      ]
+    },
+    "data analysis": {
+      "related": [
+        "data science",
+        "sql"
+      ]
+    },
+    "react": {
+      "related": [
+        "javascript",
+        "typescript"
+      ]
+    },
+    "angular": {
+      "related": [
+        "javascript",
+        "typescript"
+      ]
+    },
+    "vue": {
+      "related": [
+        "javascript",
+        "typescript"
+      ]
+    },
+    "node.js": {
+      "related": [
+        "javascript",
+        "typescript"
+      ]
+    }
+  },
+  "aliases": {
+    "rest api": [
+      "rest api",
+      "rest apis",
+      "restful api",
+      "restful apis",
+      "restful",
+      "rest services"
+    ],
+    "node.js": [
+      "node.js",
+      "nodejs",
+      "node js"
+    ],
+    "asp.net": [
+      "asp.net",
+      "aspnet",
+      "asp.net core",
+      "asp net",
+      "asp net core"
+    ],
+    "spring boot": [
+      "spring boot",
+      "springboot"
+    ],
+    "scikit-learn": [
+      "scikit-learn",
+      "sklearn",
+      "scikit learn"
+    ],
+    "machine learning": [
+      "machine learning",
+      "machine-learning",
+      "ml"
+    ],
+    "deep learning": [
+      "deep learning",
+      "deep-learning",
+      "dl"
+    ],
+    "data science": [
+      "data science"
+    ],
+    "data analysis": [
+      "data analysis"
+    ],
+    "computer vision": [
+      "computer vision"
+    ],
+    "react": [
+      "react",
+      "react.js",
+      "reactjs"
+    ]
+  }
+}

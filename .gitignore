@@ -1,0 +1,48 @@
+
+# Frontend dependencies and build
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+*.tsbuildinfo
+*-debug.log*
+*.log
+logs/
+
+# Python environments and cache
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+.tmp-*
+.claude-replay.*
+
+# Figma Make workspace
+/.figma/design-context/
+/.plugins/
+/.opencode-skills/
+
+# Local candidate data and generated results
+/models/candidate_profiles.pkl
+/data/processed/batch_matching_results.parquet
+
+# Large candidate dataset and generated results
+/models/candidate_profiles.pkl
+/data/processed/batch_matching_results.parquet
+
+
+# Downloadable semantic model files
+/models/all-MiniLM-L6-v2/model.safetensors
+/models/all-MiniLM-L6-v2/tokenizer.json
+
+/models/candidate_profiles.pkl
+/data/processed/batch_matching_results.parquet
+
