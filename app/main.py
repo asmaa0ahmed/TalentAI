@@ -45,6 +45,7 @@ app.add_middleware(
         "http://localhost:8443",
         "http://127.0.0.1:8443",
         "http://0.0.0.0:8443",
+        "https://talent-ai-dusky.vercel.app",    
     ],
     allow_credentials=True,
     allow_methods=["*"],
