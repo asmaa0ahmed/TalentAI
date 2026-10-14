@@ -74,9 +74,8 @@ tfidf_vectorizer = joblib.load(
 )
 
 embedding_model = SentenceTransformer(
-    str(MODELS_PATH / "all-MiniLM-L6-v2")
+    "sentence-transformers/all-MiniLM-L6-v2"
 )
-
 
 # =========================
 # Skills
